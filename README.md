@@ -15,7 +15,7 @@ A small chat room program written in Python 3, that allows multiple people to in
 - Python 3
 - Socket Module (standard library)
 - Threading Module (standard library)
-- a bunch of cryptography modules including RSA just check the imports lmao
+- PyCryptodome
 
 ## Contributing
 Since this is a personal project for fun, this repo is unlikely to be updated continuously unless it keeps my attention, however if you wish to contribute with bug fixes/new features/code improvements, pull requests are welcome. Issues are also welcome if you want to discuss or raise an issue. If you wish to fork or reimplement the code you're also welcome to go ahead.
